@@ -2,7 +2,7 @@ Link Proposal: https://docs.google.com/document/d/1kH_LdpTNHixKUtjLNtsOPb107cZIv
 
 Link Figma: https://www.figma.com/design/KLeSIsjXvtusdcp0eAoY3E/Tugas-Besar-Interaction-Design?node-id=0-1&t=GsH1EtMKAZnpbFBw-1
 
-Link Figjam: https://www.figma.com/board/wX8xGtZnc7jA93zl7bLceH/Untitled?t=GsH1EtMKAZnpbFBw-1
+Link Figjam: https://www.figma.com/board/wX8xGtZnc7jA93zl7bLceH/Tugas-Besar-Interaction-Design?t=GsH1EtMKAZnpbFBw-1
 
 # Budak-Korporat
 
