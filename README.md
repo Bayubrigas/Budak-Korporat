@@ -4,6 +4,8 @@ Link Figma: https://www.figma.com/design/KLeSIsjXvtusdcp0eAoY3E/Tugas-Besar-Inte
 
 Link Figjam: https://www.figma.com/board/wX8xGtZnc7jA93zl7bLceH/Tugas-Besar-Interaction-Design?t=GsH1EtMKAZnpbFBw-1
 
+Link G.Drive Konten  :  https://drive.google.com/drive/folders/1PTpG6SmW3sbG0e6DZY6my7fqmHkomAYw?usp=sharing
+
 # Budak-Korporat
 
 Anggota Budak Korporat:
