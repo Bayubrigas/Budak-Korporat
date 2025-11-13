@@ -1,11 +1,11 @@
-🩺 #HEALTHYU — Aplikasi Pemantauan Kesehatan Fisik & Mental
+# 🩺 HEALTHYU — Aplikasi Pemantauan Kesehatan Fisik & Mental
 
-📖 ##Deskripsi Aplikasi
+## 📖 Deskripsi Aplikasi
 HEALTHYU adalah aplikasi mobile yang dirancang untuk membantu pengguna memantau kesehatan fisik dan mental secara terpadu dalam satu platform. Aplikasi ini lahir dari kebutuhan masyarakat modern yang ingin menjaga keseimbangan hidup sehat di tengah kesibukan. Berbeda dari aplikasi lain yang hanya fokus pada salah satu aspek, SehatKu menggabungkan pemantauan aktivitas fisik dan kondisi mental melalui antarmuka yang sederhana, interaktif, dan ramah pengguna.
 
 ---
 
-🌟 ##Fitur Utama
+## 🌟 Fitur Utama
 
 1.  Health Tracker
     Mencatat dan memantau aktivitas fisik seperti langkah harian, waktu tidur, dan pola makan.
@@ -24,7 +24,7 @@ HEALTHYU adalah aplikasi mobile yang dirancang untuk membantu pengguna memantau 
 
 ---
 
-🧩 ##Teknologi yang Digunakan
+## 🧩 Teknologi yang Digunakan
 
 Perancangan aplikasi ini menggunakan pendekatan User-Centered Design (UCD) dengan tahapan berikut:
 1.  Research Tools: Google Forms,       wawancara pengguna.
@@ -34,20 +34,20 @@ Prototype dikembangkan menggunakan aplikasi Figma untuk simulasi interaksi dan p
 
 ---
 
-🎨 ##Desain & Prototype
+## 🎨 Desain & Prototype
 
-###Figma :
+### Figma :
 https://www.figma.com/design/KLeSIsjXvtusdcp0eAoY3E/Tugas-Besar-Interaction-Design?node-id=0-1&t=GsH1EtMKAZnpbFBw-1
 
-###Figjam : 
+### Figjam : 
 https://www.figma.com/board/wX8xGtZnc7jA93zl7bLceH/Tugas-Besar-Interaction-Design?t=GsH1EtMKAZnpbFBw-1
 
-###Link G.Drive Konten  : 
+### Link G.Drive Konten  : 
 https://drive.google.com/drive/folders/1PTpG6SmW3sbG0e6DZY6my7fqmHkomAYw?usp=sharing
 
 ---
 
-👥 ##Tim Pengembang (Kelompok Budak Korporat)
+## 👥 Tim Pengembang (Kelompok Budak Korporat)
 1. Bayu Brigas Novaldi (123140072)
 2. Martino Kelvin (123140165)
 3. Stevanus Cahya Anggara (12314038)
@@ -59,7 +59,7 @@ Asisten: Elsa Elisa Yohana Sianturi
 
 ---
 
-📎 ##Link Proposal
+## 📎 Link Proposal
 📄 https://docs.google.com/document/d/1kH_LdpTNHixKUtjLNtsOPb107cZIvcDdu8Wfar1P5ww/edit?usp=sharing
 
 
