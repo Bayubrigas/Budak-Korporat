@@ -22,13 +22,16 @@ HEALTHYU adalah aplikasi mobile yang dirancang untuk membantu pengguna memantau 
 5.  Pengingat Personal (Reminder)
     Notifikasi otomatis untuk menjaga konsistensi pengguna dalam menjalani kebiasaan sehat.
 ---
+
 ## Flow
 ### * Task Flow
 
-![Diagram Alur Tugas](task_flow.png)
+<img src="images/task_flow.png" alt="Diagram Alur Tugas" width="500">
+
 ### * User Flow 
 
-![Diagram Alur user](user_flow.png)
+<img src="images/user_flow.png" alt="Diagram Alur Tugas" width="500">
+
 ---
 
 ## 🧩 Teknologi yang Digunakan
