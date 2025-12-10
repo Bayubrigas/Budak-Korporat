@@ -11,6 +11,8 @@
 | 7  |Tengku Hafid Diraputra | Task Flow | <img width="2132" height="916" alt="task_flow" src="https://github.com/user-attachments/assets/df3a96ec-00c5-4e18-b37a-c01653e10586" />|
 | 8  |Tengku Hafid Diraputra | Konten research tiap page | <img width="1065" height="539" alt="image" src="https://github.com/user-attachments/assets/55bf38f2-db49-4af6-a54e-95d61ff1cf3a" />|
 | 9  |Tengku Hafid Diraputra | Splash Screen  | <img width="537" height="172" alt="image" src="https://github.com/user-attachments/assets/29e80702-f76f-46d9-b565-07c218f7811e" />|
+| 10  |Tengku Hafid Diraputra | Home Awla  | <img width="546" height="722" alt="image" src="https://github.com/user-attachments/assets/6219d3e7-95ac-4956-9252-22bf9867dbce" />|
+
 
 
 
