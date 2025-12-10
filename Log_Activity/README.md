@@ -10,6 +10,9 @@
 | 6  |Annisa Al-Qoriah | Progress tampilan awal page health tracker|![log1](https://github.com/user-attachments/assets/3e015ef9-5f66-4ef2-b283-221fdfbcc2dd)|
 | 7  |Tengku Hafid Diraputra | Task Flow | <img width="2132" height="916" alt="task_flow" src="https://github.com/user-attachments/assets/df3a96ec-00c5-4e18-b37a-c01653e10586" />|
 | 8  |Tengku Hafid Diraputra | Konten research tiap page | <img width="1065" height="539" alt="image" src="https://github.com/user-attachments/assets/55bf38f2-db49-4af6-a54e-95d61ff1cf3a" />|
+| 9  |Tengku Hafid Diraputra | Splash Screen  | <img width="537" height="172" alt="image" src="https://github.com/user-attachments/assets/29e80702-f76f-46d9-b565-07c218f7811e" />|
+
+
 
 
 
