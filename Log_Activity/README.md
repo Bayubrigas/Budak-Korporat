@@ -13,7 +13,12 @@
 | 9  |Tengku Hafid Diraputra | Splash Screen  | <img width="537" height="172" alt="image" src="https://github.com/user-attachments/assets/29e80702-f76f-46d9-b565-07c218f7811e" />|
 | 10  |Tengku Hafid Diraputra | Home Awla  | <img width="546" height="722" alt="image" src="https://github.com/user-attachments/assets/6219d3e7-95ac-4956-9252-22bf9867dbce" />|
 | 11  |Tengku Hafid Diraputra |  Animasi Component awal | <img width="625" height="344" alt="image" src="https://github.com/user-attachments/assets/d71a426f-fe9e-4a8e-b85f-feb5655cf56b" />|
-| 12  |Tengku Hafid Diraputra |  Onboarding Quiz | <img width="1241" height="580" alt="image" src="https://github.com/user-attachments/assets/65ff7e24-ce47-40f4-b6ba-89ecdd44b95d" />|
+| 12  |Annisa Al-Qoriah | page health tracker|![fisik](https://github.com/user-attachments/assets/0f96e256-cdf4-4953-beba-1583acd74073)|
+| 13  |Annisa Al-Qoriah | page health tracker-yoga|![fisik2](https://github.com/user-attachments/assets/38fce4c9-75cf-4e71-b93f-f2e429c76d7f)|
+| 14  |Annisa Al-Qoriah | page health tracker-Run|![fisik3](https://github.com/user-attachments/assets/fb9a537f-8caa-43a3-94c4-7d1c04e4293c)|
+| 15  |Annisa Al-Qoriah | page health tracker-bike|![fisik4](https://github.com/user-attachments/assets/4c498140-4601-4a69-b8d4-3f041e661f7a)|
+| 16  |Annisa Al-Qoriah | page health tracker-WO|![fisik5](https://github.com/user-attachments/assets/70aa28c9-8ce8-4038-a3c3-0d2cc9caca7f)|
+| 17  |Annisa Al-Qoriah | laporan|![laporan](https://github.com/user-attachments/assets/74111d62-1d03-498a-86df-df876f18773c)|
 
 
 
