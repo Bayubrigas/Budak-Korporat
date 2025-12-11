@@ -22,7 +22,7 @@
 | 18 | Stevanus Cahya A | Membuat frame untuk image slider pada halaman utama physics | | ![slider](https://github.com/user-attachments/assets/62ad937e-2b80-421d-8664-be643417b9c2)|
 | 19 | Stevanus Cahya A | Integrasi frame slider ke halaman physics | ![slider2](https://github.com/user-attachments/assets/c388d6ec-b7a6-486b-a781-f6dd36211c57) |
 | 20 | Stevanus Cahya A | Membuat "Progress" Component untuk halaman physics | ![progrescard](https://github.com/user-attachments/assets/e4fbe305-241f-4983-a484-4af4ae505ea9) |
-| 21 | Stevanus Cahya A | 
+| 21 | Stevanus Cahya A | Membuat  mood recap card untuk perbaikan halaman home | ![moodcard](https://github.com/user-attachments/assets/534bcd28-ef84-464e-9b54-83ec107ffcc6)|
 
 
 
