@@ -32,6 +32,7 @@
 | 28 | Stevanus Cahya A | Pembuatan weekly recap component untuk perbaikan halaman log activity | ![recap](https://github.com/user-attachments/assets/f333ef79-4545-44a6-954e-916d16d8ed2e)|
 | 29 | Stevanus Cahya A | Pembuatan new log activity untuk perbaikan halaman log activity | ![recap](https://github.com/user-attachments/assets/c9bf13ab-f957-4f25-94d1-275e240234cc)|
 | 30 | Stevanus Cahya A |  perbaikan halaman log activity | ![logactivity2](https://github.com/user-attachments/assets/410f22ef-3dc9-4e02-849d-4f1528d1f298)|
+| 31 | Stevanus Cahya A |  pembuatan animasi component, untuk menu yoga dan workout halaman physics | ![animated](https://github.com/user-attachments/assets/c7981fde-94d9-4cdc-8700-f762ed7ce1f7)|
 
 
 
