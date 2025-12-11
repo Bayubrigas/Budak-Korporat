@@ -35,7 +35,8 @@
 | 31 | Stevanus Cahya A |  pembuatan animasi component, untuk menu yoga dan workout halaman physics | ![animated](https://github.com/user-attachments/assets/c7981fde-94d9-4cdc-8700-f762ed7ce1f7)|
 | 32 | Stevanus Cahya A |  pembuatan halaman contoh gerakan untuk salah satu gerakan pada menu yoga dan workout | ![contoh](https://github.com/user-attachments/assets/ead01c3c-801e-4912-92d4-f940c288cd13)|
 | 33 | Stevanus Cahya A |  Prototyping 95% dari keseluruhan menu | ![prototyping](https://github.com/user-attachments/assets/18052e52-ee06-48be-8db3-fe3ba760b7eb)|
-| 34 | Bayu Brigas Novaldi |  Pembuatan menu homepage | (<img width="336" height="637" alt="image" src="https://github.com/user-attachments/assets/35ca2cc7-3927-425e-a0ed-15677fdb09bf" />)|
+| 34 | Bayu Brigas Novaldi |  Pembuatan menu homepage | <img width="336" height="637" alt="image" src="https://github.com/user-attachments/assets/35ca2cc7-3927-425e-a0ed-15677fdb09bf" />|
+| 35 | Bayu Brigas Novaldi |  Pembuatan menu Mindful | <<img width="390" height="816" alt="image" src="https://github.com/user-attachments/assets/d3162f8e-c985-4487-a2f7-5d945dc2f0bf" />|
 
 
 
