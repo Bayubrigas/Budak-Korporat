@@ -30,6 +30,7 @@
 | 26 | Stevanus Cahya A | Pembuatan halaman onboarding | ![onboarding](https://github.com/user-attachments/assets/c21187bc-3e4a-4b6a-b869-c7e62feb899a)|
 | 27 | Stevanus Cahya A | Pembuatan halaman register guest | ![guest](https://github.com/user-attachments/assets/ba57bbc9-d892-48f7-9642-bd16a9915793)|
 | 28 | Stevanus Cahya A | Pembuatan weekly recap component untuk perbaikan halaman log activity | ![recap](https://github.com/user-attachments/assets/f333ef79-4545-44a6-954e-916d16d8ed2e)|
+| 29 | Stevanus Cahya A | Pembuatan new log activity untuk perbaikan halaman log activity | ![recap](https://github.com/user-attachments/assets/c9bf13ab-f957-4f25-94d1-275e240234cc)|
 
 
 
