@@ -19,6 +19,7 @@
 | 15  |Annisa Al-Qoriah | page health tracker-bike|![fisik4](https://github.com/user-attachments/assets/4c498140-4601-4a69-b8d4-3f041e661f7a)|
 | 16  |Annisa Al-Qoriah | page health tracker-WO|![fisik5](https://github.com/user-attachments/assets/70aa28c9-8ce8-4038-a3c3-0d2cc9caca7f)|
 | 17  |Annisa Al-Qoriah | laporan|![laporan](https://github.com/user-attachments/assets/74111d62-1d03-498a-86df-df876f18773c)|
+| 18 | Stevanus Cahya A | Membuat frame untuk image slider pada halaman utama physics | | ![slider](https://github.com/user-attachments/assets/62ad937e-2b80-421d-8664-be643417b9c2)|
 
 
 
