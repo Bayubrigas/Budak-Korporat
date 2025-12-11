@@ -38,7 +38,8 @@
 | 34 | Bayu Brigas Novaldi |  Pembuatan menu homepage | <img width="336" height="637" alt="image" src="https://github.com/user-attachments/assets/35ca2cc7-3927-425e-a0ed-15677fdb09bf" />|
 | 35 | Bayu Brigas Novaldi |  Pembuatan menu Mindful | <img width="390" height="816" alt="image" src="https://github.com/user-attachments/assets/d3162f8e-c985-4487-a2f7-5d945dc2f0bf" />|
 | 36 | Bayu Brigas Novaldi |  Pembuatan submenu dari Mindfull | <img width="1025" height="570" alt="image" src="https://github.com/user-attachments/assets/0abf6415-5db2-4f1f-a593-d0db23fa3f6a" />|
-
+| 37 | Bayu Brigas Novaldi |  Pembuatan menu music meditation | <img width="857" height="488" alt="image" src="https://github.com/user-attachments/assets/2bee3d53-633a-46cb-a124-d9ab333adb68" />
+|
 
 
 
