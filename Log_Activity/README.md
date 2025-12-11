@@ -24,6 +24,7 @@
 | 20 | Stevanus Cahya A | Membuat "Progress" Component untuk halaman physics | ![progrescard](https://github.com/user-attachments/assets/e4fbe305-241f-4983-a484-4af4ae505ea9) |
 | 21 | Stevanus Cahya A | Membuat  mood recap card untuk perbaikan halaman home | ![moodcard](https://github.com/user-attachments/assets/534bcd28-ef84-464e-9b54-83ec107ffcc6)|
 | 22 | Stevanus Cahya A | Membuat  Main leaderboard untuk perbaikan halaman home | ![mainleaderboard](https://github.com/user-attachments/assets/ff7118fb-0fde-4ce4-bf61-d0dceca8521b)|
+| 22\3 | Stevanus Cahya A | Membuat  leaderboard component untuk perbaikan halaman home | ![leaderboard](https://github.com/user-attachments/assets/27b8be81-cc95-46b9-84d9-0ac048c40e99)|
 
 
 
