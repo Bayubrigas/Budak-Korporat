@@ -28,6 +28,7 @@
 | 24 | Stevanus Cahya A | Membantu perbaikan halaman home | ![home](https://github.com/user-attachments/assets/008a6579-9943-42d4-a77b-03ea70cecee0)|
 | 25 | Stevanus Cahya A | Pembuatan halaman profile | ![profile](https://github.com/user-attachments/assets/78ba2df3-8aed-4fd4-976c-c60bb70e8aef)|
 | 26 | Stevanus Cahya A | Pembuatan halaman onboarding | ![onboarding](https://github.com/user-attachments/assets/c21187bc-3e4a-4b6a-b869-c7e62feb899a)|
+| 27 | Stevanus Cahya A | Pembuatan halaman register guest | ![guest](https://github.com/user-attachments/assets/ba57bbc9-d892-48f7-9642-bd16a9915793)|
 
 
 
